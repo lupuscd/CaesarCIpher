@@ -1,0 +1,4 @@
+venv/
+decrypted.txt
+encrypted.txt
+.DS_Store
