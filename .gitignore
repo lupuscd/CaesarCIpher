@@ -2,3 +2,4 @@ venv/
 decrypted.txt
 encrypted.txt
 .DS_Store
+__pycache__/
